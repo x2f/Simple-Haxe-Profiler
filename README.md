@@ -10,8 +10,6 @@
  
 ### Usage
 
-* Function without arguments:
-
 ```haxe
 /**
  * Profiler test
